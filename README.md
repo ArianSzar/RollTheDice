@@ -1,3 +1,2 @@
 # RollTheDice
-simple funny dice game that you will try with your friends. 😉
-(just for fun & learning project!)
+A fun and simple dice game to enjoy with your friends! 😄 (Just for fun and learning!)
